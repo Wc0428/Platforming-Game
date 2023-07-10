@@ -1,6 +1,9 @@
+/ui/
+/button_atlas.png
+/menu_background.png
+/gamestates/
+/inputs/
+/main/
 /entities/
 /utilz/
-/main/
 /levels/
-/inputs/
-/gamestates/
