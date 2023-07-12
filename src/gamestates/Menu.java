@@ -99,7 +99,7 @@ public class Menu extends State implements Statemethods {
 				break;
 			}
 
-	}
+	}	
 
 	@Override
 	public void keyPressed(KeyEvent e) {

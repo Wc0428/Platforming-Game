@@ -1,9 +1,11 @@
-/ui/
-/button_atlas.png
-/menu_background.png
+/pause_menu.png
+/sound_button.png
+/urm_buttons.png
+/volume_buttons.png
+/entities/
 /gamestates/
 /inputs/
-/main/
-/entities/
-/utilz/
 /levels/
+/main/
+/ui/
+/utilz/
