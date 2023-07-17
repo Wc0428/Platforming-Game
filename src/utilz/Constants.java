@@ -82,6 +82,7 @@ public class Constants {
 			case FALLING:
 			default:
 				return 1;
+				
 			}
 		}
 	}
