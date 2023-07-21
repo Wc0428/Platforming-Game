@@ -76,7 +76,6 @@ public class Constants {
 			case ATTACK_1:
 			case ATTACK_JUMP_1:
 			case ATTACK_JUMP_2:
-				
 				return 3;
 			case GROUND:
 				return 2;
