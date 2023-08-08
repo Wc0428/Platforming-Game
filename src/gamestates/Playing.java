@@ -84,6 +84,7 @@ public class Playing extends State implements Statemethods {
 
 		shipImgs = new BufferedImage[4];
 		BufferedImage temp = LoadSave.GetSpriteAtlas(LoadSave.SHIP);
+		
 		for (int i = 0; i < shipImgs.length; i++)
 			shipImgs[i] = temp.getSubimage(i * 78, 0, 78, 72);
 
